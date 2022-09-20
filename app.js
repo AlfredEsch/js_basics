@@ -24,3 +24,4 @@ console.log(person.firstname)
 console.log(person.surname)
 person.age = '17'
 console.log(person.age)
+//
